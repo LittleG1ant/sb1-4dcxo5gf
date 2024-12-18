@@ -1,0 +1,18 @@
+{
+  "title": "About Us",
+  "description": "We are a fictional company built for testing purposes.",
+  "team": [
+    {
+      "name": "John Doe",
+      "role": "CEO",
+      "bio": "Passionate about creating amazing experiences.",
+      "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "name": "Jane Smith",
+      "role": "CTO",
+      "bio": "Tech enthusiast and innovation driver.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80"
+    }
+  ]
+}

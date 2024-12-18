@@ -1,0 +1,16 @@
+{
+  "title": "Our Services",
+  "description": "Discover what we can do for you",
+  "services": [
+    {
+      "name": "Example Service 1",
+      "description": "A comprehensive solution for your needs.",
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "name": "Example Service 2",
+      "description": "Innovative approaches to common challenges.",
+      "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=500&q=80"
+    }
+  ]
+}
